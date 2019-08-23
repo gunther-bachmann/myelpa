@@ -309,7 +309,7 @@
  (rainbow-delimiters . [(2 1 3) nil "Highlight brackets according to their depth" tar])
  (rainbow-identifiers . [(0 2 2) ((emacs (24))) "Highlight identifiers according to their names" tar])
  (rainbow-mode . [(1 0 1) nil "Colorize color names in buffers" tar])
- (request . [(0 3 1) ((emacs (24 4))) "Compatible layer for URL request in Emacs" tar])
+ (request . [(20190819 1735) ((emacs (24 4))) "Compatible layer for URL request in Emacs" tar])
  (request-deferred . [(0 3 1) ((deferred (0 3 1)) (request (0 2 0))) "Wrap request.el by deferred" tar])
  (restclient . [(20190502 2214) nil "An interactive HTTP client for Emacs" tar])
  (restclient-helm . [(20170314 1554) ((restclient (0)) (helm (1 9 4))) "helm interface for restclient.el" tar])
